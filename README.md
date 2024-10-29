@@ -1,3 +1,6 @@
+Build a Personal Portfolio Webpage
+Objective: Build an app that is functionally similar to https://personal-portfolio.freecodecamp.rocks. Do not copy this demo project.
+
 Your portfolio should have a welcome section with an id of welcome-section
 The welcome section should have an h1 element that contains text
 Your portfolio should have a projects section with an id of projects
